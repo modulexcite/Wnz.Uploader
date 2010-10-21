@@ -5,7 +5,7 @@ name: Wnz.Uploader
 
 description: Provides uploader interface with handler based on browser features
 
-license: MIT-style license.
+license: GNU GPL 2 or later, see license.txt.
 
 authors: 
 - Dave De Vos

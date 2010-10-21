@@ -5,7 +5,7 @@ name: WNZ.Uploader.Message.Notimoo
 
 description: provides notimoo messaging for uploader
 
-license: MIT-style license.
+license: GNU GPL 2 or later, see license.txt.
 
 authors: 
 - Dave De Vos

@@ -5,7 +5,7 @@ name: WNZ.Uploader.Queue.Moogressbar
 
 description: provides progressbar for uploader based on moogressbar
 
-license: MIT-style license.
+license: GNU GPL 2 or later, see license.txt.
 
 authors: 
 - Dave De Vos

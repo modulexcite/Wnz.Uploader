@@ -5,7 +5,7 @@ name: WNZ.Uploader.Queue
 
 description: provides upload queue for WNZ.Uploader
 
-license: MIT-style license.
+license: GNU GPL 2 or later, see license.txt.
 
 authors: 
 - Dave De Vos
